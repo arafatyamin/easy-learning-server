@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "6357f80055a05c358a1fb982",
+    "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+    "balance": "$367",
+    "picture": "https://i.ibb.co/HXWpYLp/10798281-19362653.jpg",
+    "name": "The Complete Web Developer in 2022: Zero to Mastery",
+    "about": "Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Udemy! At 65+ hours, this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery. Here's why:\r\n"
+  },
+  {
+    "category_id": "02",
+      "rating": { "number": 4.0, "badge": "Excellent" },
+    "_id": "6357f80078639e8d7da3f830",
+    "balance": "$304",
+    "picture": "https://i.ibb.co/WvCZnVY/50023962-954353468091324-6288095836630941696-n.jpg",
+    "name": "Algorithms and Data Structures in Python",
+    "about": "This course is about data structures, algorithms and graphs. We are going to implement the problems in Python programming language. I highly recommend typing out these data structures and algorithms several times on your own in order to get a good grasp of it.\r\n"
+  },
+  {
+    "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+    "_id": "6357f8000e7c968a2dc80000",
+    "balance": "$387",
+    "picture": "https://i.ibb.co/JRxF45H/7439097-32818.jpg",
+    "name": "Machine Learning, Data Science and Deep Learning with Python",
+    "about": "Machine Learning and artificial intelligence (AI) is everywhere; if you want to know how companies like Google, Amazon, and even Udemy extract meaning and insights from massive data sets, this data science course will give you the fundamentals you need. Data Scientists enjoy one of the top-paying jobs, with an average salary of $120,000 according to Glassdoor and Indeed. That's just the average! And it's not just about money - it's interesting work too!\r\n"
+  },
+  {
+    "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+    "_id": "6357f8005e01c2dbc6990be8",
+    "balance": "$273",
+    "picture": "https://i.ibb.co/kKtR0g9/3629609-770.jpg",
+    "name": "Artificial Intelligence A-Z™: Learn How To Build An AI",
+    "about": "Learn key AI concepts and intuition training to get you quickly up to speed with all things AI. Covering: 1.How to start building AI with no previous coding experience using Python. 2.How to merge AI with OpenAI Gym to learn as effectively as possible. 3.How to optimize your AI to reach its maximum potential in the real world.\r\n"
+  },
+  {
+    "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+    "_id": "6357f8006a003ac0ec855c40",
+    "balance": "$384",
+    "picture": "https://i.ibb.co/Px9JZ83/4102879-971.jpg",
+    "name": "Learn Python: The Complete Python Programming Course",
+    "about": "If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you!Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming!\r\n"
+  },
+  {
+    "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+    "_id": "6357f80024ff88d89a3ee02a",
+    "balance": "$125",
+    "picture": "https://i.ibb.co/M6fbPWk/12979313-5079214.jpg",
+    "name": "Become a Professional Graphic Designer",
+    "about": "Graphic design has always been a popular profession, but with more and more technology being introduced into our lives it's becoming an ever more important one too. All kinds of people use all kinds of technology every day. Making that technology as user-friendly as possible is vital, and graphic design is one of the most important elements of this.This course is aimed at aspiring graphic designers, web designers and digital artists who wish to develop a skill set needed to become a professional graphic designer. Suitable for both complete beginners and those who already have some knowledge of the industry; this course will prepare you for a career as a graphics designer through familiarising you with the concepts, principles and – most importantly – the software you'll need to know.\r\n"
+  }
+]
