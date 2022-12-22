@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express();
 const cors = require('cors');
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 8000;
 
 app.use(cors());
 
@@ -21,6 +21,10 @@ app.get('/category/:id', (req, res) =>{
     const category_course = course.filter(n => n.category_id === id);
         res.send(category_course)
     
+})
+
+app.get('/course', (req, res) => {
+    res.send(course)
 })
 
 app.get('/course/:id', (req, res) =>{
